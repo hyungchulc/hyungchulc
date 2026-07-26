@@ -17,7 +17,6 @@ context.
 | [Aria YouTube Skill](https://github.com/hyungchulc/aria-youtube-skill) | A local-first evidence pipeline combining captions, local transcription, and sampled frames. |
 | [Codex Context for ISTM](https://github.com/hyungchulc/codex-context-for-istm) | A macOS pipeline for bounded, provenance-aware Codex session context. |
 | [Mac Context for ISTM](https://github.com/hyungchulc/mac-context-for-istm) | A privacy-bounded Swift collector for selected Apple app context. |
-| [Simvestor](https://github.com/hyungchulc/Simvestor_v1) | A thematic investment simulator with portfolio comparison, risk analytics, and forecasting. |
 
 ## Experience in practice
 
