@@ -42,5 +42,6 @@ context.
 
 ## Connect
 
+[Portfolio](https://hyungchul-choi.hyungchulc.chatgpt.site) ·
 [LinkedIn](https://www.linkedin.com/in/hyungchulc) ·
 [GitHub](https://github.com/hyungchulc)
