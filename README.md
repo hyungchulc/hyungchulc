@@ -12,6 +12,7 @@ context.
 
 | Project | What it does |
 | --- | --- |
+| [Voice Relay](https://github.com/hyungchulc/voice-relay) | A native macOS voice layer that keeps quick conversation in Realtime and hands substantive work to Codex. |
 | [Memory Forest](https://github.com/hyungchulc/memory-forest) | A verifiable, local-first memory architecture for long-running AI agents. |
 | [Memory Retrieval Lab](https://github.com/hyungchulc/memory-retrieval-lab) | Reproducible evaluation for retrieval quality, ranking, freshness, and multilingual fixtures. |
 | [Aria YouTube Skill](https://github.com/hyungchulc/aria-youtube-skill) | A local-first evidence pipeline combining captions, local transcription, and sampled frames. |
